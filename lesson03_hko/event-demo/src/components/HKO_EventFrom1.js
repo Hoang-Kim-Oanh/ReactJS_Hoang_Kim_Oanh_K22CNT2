@@ -15,7 +15,7 @@ export default class MyComponent extends Component {
         return (
             <div className='alert alert-danger'>
                 <h2>Event Handle</h2>
-                <button onClick={this.handleButtonClick1()}>Click1_HKO</button>
+               { /*<button onClick={this.handleButtonClick1()}>Click1_HKO</button>*/}
                 <button onClick={this.handleButtonClick2}>Click2_HKO</button>
             </div>
         );
