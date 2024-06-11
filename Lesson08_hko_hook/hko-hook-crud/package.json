@@ -1,5 +1,5 @@
 {
-  "name": "hko-hook",
+  "name": "hko-hook-crud",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
