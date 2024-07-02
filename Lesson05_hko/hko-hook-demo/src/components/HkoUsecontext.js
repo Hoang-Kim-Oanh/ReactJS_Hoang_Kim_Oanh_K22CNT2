@@ -7,7 +7,7 @@ export default function HkoUseContext() {
     // Khai báo state để lưu trữ giá trị theme và hàm setter
     const [theme, setTheme] = useState('red');
 
-    // Hàm để thay đổi theme giữa 'red' và 'blue'
+    // hàm xu lí 1 node nhav 
     const hkoHandleChange = () => {
         setTheme(theme === 'red' ? 'blue' : 'red');
     };
